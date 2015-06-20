@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ColorJot</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_sort">Sort</string>
+
+    <string name="add_note">Add Note</string>
+    <string name="title_activity_new_note">New Note</string>
+
+    <string name="text_size">Text Size</string>
+    <string name="text_color">Text Color</string>
+    <string name="note_color">Note Color</string>
+    <string name="set_reminder">Set Reminder</string>
+
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="title_activity_edit_note">Edit Note</string>
+
+    <string name="dialog_delete_note">Are you sure you would like to delete this note?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="note_options">Note Options</string>
+    <string name="dialog_are_you_sure">Are you sure?</string>
+    <string name="title_activity_preference">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="select_note">Select Note</string>
+    <string name="create_note">Create Note</string>
+
+</resources>

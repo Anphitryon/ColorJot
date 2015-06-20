@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#666666</color>
+
+    <!--Theme Colors-->
+    <color name="theme_primary">#2D882D</color>
+    <color name="theme_primary_dark">#006400</color>
+    <color name="theme_accent">#FF7519</color>
+
+    <color name="pink">#FF00FF</color>
+
+    <!--Note Colors-->
+    <!--Yellow-->
+    <color name="yellow_body">#EEEE4D</color>
+    <color name="yellow_header">#E6E600</color>
+    <!--Blue-->
+    <color name="blue_body">#3385D6</color>
+    <color name="blue_header">#0066CC</color>
+    <!--Red-->
+    <color name="red_body">#FF4545</color>
+    <color name="red_header">#FF3030</color>
+    <!--Green-->
+    <color name="green_body">#8CD1A3</color>
+    <color name="green_header">#19A347</color>
+    <!--Orange-->
+    <color name="orange_body">#FF8330</color>
+    <color name="orange_header">#FF7519</color>
+    <!--Purple-->
+    <color name="purple_body">#BD5CDE</color>
+    <color name="purple_header">#AD33D6</color>
+    <!--Light Grey-->
+    <color name="light_grey_body">#DDDDDD</color>
+    <color name="light_grey_header">#FFFFFF</color>
+    <!--Grey-->
+    <color name="grey_body">#999999</color>
+    <color name="grey_header">#666666</color>
+    <!--Black-->
+    <color name="black_body">#666666</color>
+    <color name="black_header">#000000</color>
+
+</resources>

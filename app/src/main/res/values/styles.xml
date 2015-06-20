@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <!--<item name="android:background">@android:color/white</item>-->
+        <item name="android:windowBackground">@color/white</item>
+
+        <item name="colorPrimary">@color/theme_primary</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="colorAccent">@color/orange_header</item>
+
+    </style>
+
+    <style name="MainGridViewStyle"></style>
+
+    <style name="SettingsTheme" parent="AppTheme">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+
+
+
+
+</resources>

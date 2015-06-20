@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:padding="2.5dp" tools:context=".MainActivityFragment">
+
+    <GridView
+        style="@style/MainGridViewStyle"
+        android:id="@+id/grid_view_notes"
+        android:numColumns="2"
+        android:gravity="center"
+        android:columnWidth="100dp"
+        android:stretchMode="columnWidth"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+    </GridView>
+
+</FrameLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text_sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="sort_options">
+        <item>by color</item>
+        <item>by creation date</item>
+    </string-array>
+
+    <string-array name="note_dialog_options">
+        <item>Delete</item>
+    </string-array>
+
+    <!--This array of colors will appear as the colors to use from in dialogs
+    array must contain raw hex values but each of these colors are also defined
+    in colors.xml for use in the rest of the code-->
+    <string-array name="note_color_choice_values" translatable="false">
+        <item>#E6E600</item>
+        <item>#0066CC</item>
+        <item>#FF3030</item>
+        <item>#AD33D6</item>
+        <item>#FF7519</item>
+        <item>#19A347</item>
+        <item>#FFFFFF</item>
+        <item>#666666</item>
+        <item>#000000</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <!--NOT MY WORK
+    xml used from https://github.com/gabrielemariotti/colorpickercollection-->
+
+    <declare-styleable name="ColorPickerPreference">
+        <attr name="cal_itemLayout" format="reference" />
+        <attr name="cal_choices" format="reference" />
+        <attr name="cal_numColumns" format="integer" />
+    </declare-styleable>
+
+</resources>
